@@ -1,0 +1,10 @@
+{
+  "name": "lvovich-api",
+  "version": "1.0.0",
+  "description": "API для склонения ФИО с lvovich",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lvovich": "^2.0.1"
+  }
+}
